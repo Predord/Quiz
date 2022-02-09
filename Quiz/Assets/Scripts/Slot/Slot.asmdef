@@ -1,0 +1,16 @@
+{
+    "name": "Slot",
+    "references": [
+        "GUID:f3831d4c52c83084bb4544b94d8fed65",
+        "GUID:26914dc46e39ec842af1e58ec6b1fd51"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0529cf624287ede43b9c03e0b8c2ece8, type: 3}
+  m_Name: Text Slot Data
+  m_EditorClassIdentifier: 
+  rotateWidthHeight: 0
+  slotScaleX: 2.8
+  slotScaleY: 3.1
+  slotDatas:
+  - slotName: A
+    slotSprite: {fileID: 4963718625464178563, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: B
+    slotSprite: {fileID: 7783457984840754399, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: C
+    slotSprite: {fileID: 3234300448368640894, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: D
+    slotSprite: {fileID: 7911670913450602933, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: E
+    slotSprite: {fileID: 4652326554734856401, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: F
+    slotSprite: {fileID: -6426668015567183463, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: G
+    slotSprite: {fileID: 216406037199867053, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: H
+    slotSprite: {fileID: -8235857483100294123, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: I
+    slotSprite: {fileID: -3541686595128163680, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: J
+    slotSprite: {fileID: -2756605603065543306, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: K
+    slotSprite: {fileID: -1127063002332224934, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: L
+    slotSprite: {fileID: -5901097786099144959, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: M
+    slotSprite: {fileID: 3295844289267200183, guid: ddd14faecaf249641b23402664e81c22,
+      type: 3}
+  - slotName: N
+    slotSprite: {fileID: 7112752472869403061, guid: 750431e4667efdd4295f73d27e41ade6,
+      type: 3}
+  - slotName: O
+    slotSprite: {fileID: 5433449995169814141, guid: 750431e4667efdd4295f73d27e41ade6,
+      type: 3}
+  - slotName: P
+    slotSprite: {fileID: -4252152113809563852, guid: 750431e4667efdd4295f73d27e41ade6,
+      type: 3}
+  - slotName: Q
+    slotSprite: {fileID: -4447791616812998045, guid: 750431e4667efdd4295f73d27e41ade6,
+      type: 3}
+  - slotName: R
+    slotSprite: {fileID: -6342808464625005154, guid: 750431e4667efdd4295f73d27e41ade6,
+      type: 3}
+  - slotName: S
+    slotSprite: {fileID: 8083504644574312765, guid: 750431e4667efdd4295f73d27e41ade6,
+      type: 3}
+  - slotName: T
+    slotSprite: {fileID: -4461999128152558772, guid: 750431e4667efdd4295f73d27e41ade6,
+      type: 3}
+  - slotName: U
+    slotSprite: {fileID: 3270655726746431581, guid: 750431e4667efdd4295f73d27e41ade6,
+      type: 3}
+  - slotName: V
+    slotSprite: {fileID: -2983290644488427326, guid: 750431e4667efdd4295f73d27e41ade6,
+      type: 3}
+  - slotName: W
+    slotSprite: {fileID: -9165466868132007793, guid: 750431e4667efdd4295f73d27e41ade6,
+      type: 3}
+  - slotName: X
+    slotSprite: {fileID: 4461586319009975920, guid: 750431e4667efdd4295f73d27e41ade6,
+      type: 3}
+  - slotName: Y
+    slotSprite: {fileID: -5001085640463096552, guid: 25f44aaf0211bf341a69a7121d1df122,
+      type: 3}
+  - slotName: Z
+    slotSprite: {fileID: 3539555106843919260, guid: 25f44aaf0211bf341a69a7121d1df122,
+      type: 3}

@@ -1,0 +1,16 @@
+{
+    "name": "Grid",
+    "references": [
+        "GUID:f3831d4c52c83084bb4544b94d8fed65",
+        "GUID:36d8fcd1b9203ee4caa848bb083c2451"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
